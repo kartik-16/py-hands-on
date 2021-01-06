@@ -1,0 +1,19 @@
+1. Create a function for concatnation of two strings by taking input from the user.
+
+2. Identify a student is passed or failed with Critiria
+Print "Failed" if Num < 35
+Print "Below avg" if 50 > Num >= 35
+Print "Avg" if 60 > Num >= 50
+Print "Passed with above avg" if Num >= 60
+
+3. Write a program that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order with first character of each word in capital. For example :
+Input: your name is Kartik
+Output: Kartik Is Name Your
+
+4.     Suppose a website accepts only specific characters and pattern as the password,
+	a.     Password should contain minimum one capital letter
+	b.     Password should contain minimum one small letter
+	c.     Password should contain minimum one special characters from (@#$)
+	d.     Password should contain minimum one number
+	e.     Minimum Password length should be of 8 and maximum of 12 characters
+ Input should be list of password and print all the valid passwords in different list.
